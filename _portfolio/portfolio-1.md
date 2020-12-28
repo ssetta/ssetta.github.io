@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Writer for Oceanbites.org"
+excerpt: "Writer for oceanbites.org, a science communication website. Find my posts (here)[https://oceanbites.org/author/ssetta/]. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
