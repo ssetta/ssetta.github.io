@@ -10,7 +10,7 @@ redirect_from:
 
 I am a biological oceanographer, focused on phytoplankton ecology across ocean regions. I'm interested in communicating both my research and cutting edge science to the non-specialists.
 
-I'm interested in studying how changes in environment impact phytoplankton, microscopic photosynthesizers at the base of the food web. I'm especially intersted in how changes in phytoplankton can impact local communities, like that of harmful algal blooms, when phytoplankton proliferate with high nutrients or release toxic substances.
+I'm interested in studying how changes in environment impact phytoplankton, microscopic photosynthesizers at the base of the food web. I'm especially intersted in how changes in phytoplankton can impact local communities, like that of harmful algal blooms, when phytoplankton proliferate with high nutrients and release toxic substances.
 
 I'm currently a postdoctoral researcher in the <a href='https://www.pmel.noaa.gov/ocean-molecular-ecology/'>Ocean Molecuar Ecology Lab</a> at the NOAA Pacific Marine Environmental Laboratory and <a href='https://cicoes.uw.edu/'>The University of Washington</a>. My current research focuses on the distribution and survival of phytoplankton across nutrient, temperature and ocean acidification gradients.
 
